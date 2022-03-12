@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image:url(background.jpg);
+}
+.time-div{
+    height: 400px;
+    color: white;
+    margin-top: 10%;
+}
+h1 {
+    font-size:60px;
+    text-align: center;
+    padding-top: 7%;
+
+}
